@@ -1,0 +1,14 @@
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.exe
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.deps.json
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.runtimeconfig.json
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.runtimeconfig.dev.json
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.dll
+E:\C# Tasklar\Constructor01.11\Constructor01.11\bin\Debug\netcoreapp3.1\Constructor01.11.pdb
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.csproj.AssemblyReference.cache
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.AssemblyInfoInputs.cache
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.AssemblyInfo.cs
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.csproj.CoreCompileInputs.cache
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.dll
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.pdb
+E:\C# Tasklar\Constructor01.11\Constructor01.11\obj\Debug\netcoreapp3.1\Constructor01.11.genruntimeconfig.cache
